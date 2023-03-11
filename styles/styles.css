@@ -85,6 +85,8 @@ h3{
     width: 200px;
     margin-left: 10px;
     border-radius: 5px;
+    /* border: 2px solid rgba(194, 186, 186, 0.5); */
+    background-color: rgba(134, 145, 145, 0.212);
 }
 .foto1{
     height: 250px;
